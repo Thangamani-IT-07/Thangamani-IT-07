@@ -1,4 +1,4 @@
-### Hi, I'm Thangamani 👋
+### Hi, I'm Thangamani 
 
 **Flutter Developer | Full-Stack Development**
 
