@@ -15,9 +15,7 @@ I'm a college student building practical, real-world apps — from mobile apps i
 
 ---
 
-### GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Thangamani-IT-07&show_icons=true&theme=radical)
----
+
 
 ### Featured Projects
 
