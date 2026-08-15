@@ -38,4 +38,4 @@ https://www.linkedin.com/in/thangamani-v-119907339
 
 ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-mailto:thangamani87850@gmail.com
+Mail to:thangamani87850@gmail.com
