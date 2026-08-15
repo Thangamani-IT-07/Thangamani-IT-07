@@ -25,3 +25,17 @@ I'm a college student building practical, real-world apps — from mobile apps i
 | **[ecommerce-web-app](https://github.com/Thangamani-IT-07/ecommerce-web-app)** | Full-stack e-commerce app with product catalog, cart, checkout, role-based login | `Node.js` `Express` `MongoDB` |
 | **[blog-platform-with-comments](https://github.com/Thangamani-IT-07/blog-platform-with-comments)** | Blog platform with user auth, post CRUD, and comment system backed by REST APIs | `HTML` `REST API` |
 | **[task-manager-app](https://github.com/Thangamani-IT-07/task-manager-app)** | Task manager mobile app | `Flutter` `Dart` |
+---
+
+### Let's Connect
+
+[
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+](https://www.linkedin.com/in/thangamani-v-119907339)
+[
+
+![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+](mailto:thangamani87850@gmail.com)
